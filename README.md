@@ -1,5 +1,8 @@
 # Detection-And-Prevention-Of-Machine-Learning-Attacks-In-Adversarial-Setting
 
+Anzeela Fatima (1812257)
+Rumsha Khan (1812279)
+
 This repositary contains two files namely benchmark and Adversarial IDS
 In benchmark file, two datasets are called and preprocessed namely, KDDCUP'99 and Kitsune MIM dataset
 In Adversarial IDS, the code for the calling of adversarial attacks from cleverhans library and defense against such attacks is implemented
